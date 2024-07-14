@@ -14,8 +14,6 @@ Hello! I am a versatile programmer with expertise in multiple programming langua
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="center">
-   <img src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" width="64" height="64">
-   <img src="https://pngimg.com/d/php_PNG23.png" width="55" height="55">
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk5bTA3c3hwd2oydHdzYzZrMmdrbXZndXFsaGRzNHV1aWZ0NXdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.webp" width="64" height="64">
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRleGx0YXE1MmhpMzRjZ3c1MjloaWR0c3VkbjJ0ZGl5YWFidWd5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.webp" width="64" height="64">
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQyZnNrYWFvN2VwOWdsb2h6bnhsbjR6M2dlajV6Nnh1ejgyY3lrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.webp" width="64" height="64">
