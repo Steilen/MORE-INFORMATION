@@ -1,5 +1,4 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1400" height="500"></p>
-<p align="center"><a  href="https://git.io/typing-svg"><img src="https://ru.bloggif.com/tmp/327a85d05cc068e555a116a4a22cae08/text.gif?1720952333" alt="Typing SVG" /></a></p>
 
 **`Self-taught programmer`**
 **`Quick learner programmer`**
@@ -17,4 +16,4 @@ Hello! I am a versatile programmer with expertise in multiple programming langua
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQyZnNrYWFvN2VwOWdsb2h6bnhsbjR6M2dlajV6Nnh1ejgyY3lrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.webp" width="64" height="64">
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY215MzJ4MTV1aWVqcHY1NnN5N2ZiOXoxdnE4dmg0Y2k4cTM5OWxudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.webp" width="64" height="64">
 </p>
-<br />
+<br/>
