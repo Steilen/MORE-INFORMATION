@@ -7,8 +7,6 @@
 
 <p align="center">
 Hello! I am a versatile programmer with expertise in multiple programming languages including PHP, Python, HTML, CSS, JavaScript, and Java. My experience spans across developing robust web applications, creating interactive user interfaces, and building efficient back-end systems. I also specialize in developing bots for Telegram, Viber, and Discord. I am passionate about coding and continuously learning new technologies to enhance my skill set.
-<br>
-<img width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
